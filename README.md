@@ -1,5 +1,5 @@
 # EV-Adoption-Prediction
-A project to predict the adoption of Electric Vehicle registrations in different US regions.  Business problem is represented in this [Tableau Data Story](https://public.tableau.com/profile/sonny5205#!/vizhome/Project-3_16180781413350/Story1?publish=yes).
+A project to predict the adoption of Electric Vehicle registrations in different US regions.  Business problem is represented in this [Tableau Data Story](https://public.tableau.com/app/profile/sonny5205/viz/Project-3_16180781413350/Story1).
 
 We started our project with the idea of predicting the adoption rate of Electric Vehicles in different parts of the US. With limited access to all the necessary data we decided to use the data we were able to find to narrow our scope to a metroplitan area (Seattle, Washington) instead of the entiriety of the US.  
 
